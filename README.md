@@ -3,3 +3,6 @@
 
 You have a cool idea for a machine learning project? Use this repository. Make
 sure to explain what problem you're solving and how you're doing it.
+
+# Intro
+In this volunteer exercise, I'm going to use the Breast Cancer Dataset. In this dataset features get from digitized images of breast mass. This is a supervised learning case with a target distinguished by values 1 and 0, showing the sign of cancer or not, respectively. The aim is to use a method in Explainable AI, called Shapley Value, to make the model prediction more robust and interpretable to other practitioners like doctors. Continue on the pdf file.
